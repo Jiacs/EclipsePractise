@@ -5,5 +5,4 @@ public class TemperatureCalculator {
 	{
 		return (degreeFahrenheit-32)/1.8;
 	}
-	
 }
